@@ -11,12 +11,17 @@
 |Quản lý hiệu quả khâu nhập xuất kho: nguyên vật liệu, thành phẩm.|<div align="center"> x||
 |Quản lý quy trình sản xuất: tạo lệnh sản xuất trực tiếp trên phần mềm, theo dõi, thống kê lại các thông tin trong quá trình sản xuất theo thời gian thực, đồng thời phục vụ cho việc kiểm tra và giám sát sự cố trong quá trình phát sinh.|<div align="center"> x||
 
+
+
 ##Giới thiệu
+
 **Mục đích**
 Tài liệu với mục đích mô tả các yêu cầu tối thiểu và các chức năng phải có nhưng không
 giới hạn đáp ứng mục đích xây dựng Phần mềm quản lý sản xuất. 
+
 **Phạm vi**
-Tài liệu thuộc phạm vi của ứng dụng “Phần mềm quản lý sản xuất”. 
+Tài liệu thuộc phạm vi của ứng dụng “Phần mềm quản lý sản xuất”.
+
 **Từ viết tắt**
 |STT |Thuật ngữ/ viết tắt|Ý nghĩa|
 |-|-|-|
@@ -27,8 +32,11 @@ Tài liệu thuộc phạm vi của ứng dụng “Phần mềm quản lý sả
 ||NVL|Nguyên vật liệu|
 ||CCDC|Công cụ dụng cụ|
 ||||
+
 **So sánh với các hệ thống khác** 
+
 ##Tổng quan hệ thống
+
 **Phát biểu bài toán**
 - Xây dựng Phần mềm quản lý sản xuất nhằm mục đích chuẩn hóa lại quy trình,
 nâng cao hiệu quả hoạt động sản xuất, tối đa hóa năng suất của máy móc từ đó tối
