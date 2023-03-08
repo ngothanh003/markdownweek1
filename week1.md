@@ -31,7 +31,6 @@ Tài liệu thuộc phạm vi của ứng dụng “Phần mềm quản lý sả
 ||OQC|Kiểm tra chất lượng đầu ra |
 ||NVL|Nguyên vật liệu|
 ||CCDC|Công cụ dụng cụ|
-||||
 
 **So sánh với các hệ thống khác** 
 
@@ -45,6 +44,10 @@ nâng cao hiệu quả hoạt động sản xuất, tối đa hóa năng suất 
 **Sơ đồ hệ thống**
 
 **Phạm vi điều chỉnh**
+
+  - Phần mềm quản lý sản xuất như một hệ thống độc lập, có khả năng tích hợp và
+mở rộng, phù hợp với yêu cầu quản lý và thực trạng hoạt động tại Bộ phận sản
+xuất của ATI. 
 
 **Từ điển thuật ngữ**
 
